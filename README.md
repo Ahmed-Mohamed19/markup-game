@@ -1,2 +1,2 @@
-# markup-game
-Markup game with car brands logos
+# memory-game
+Memory game with car brands logos
