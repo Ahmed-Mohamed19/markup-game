@@ -101,7 +101,7 @@ function gameOn() {
                 finish.appendChild(restart);
                 document.body.append(finish);
                 restart.addEventListener('click', function () {
-                    time.innerHTML = 20;
+                    time.innerHTML = 60;
                     paused = false;
                     let triesNumber = document.querySelector('.tries span');
                     triesNumber.innerHTML = 0;
